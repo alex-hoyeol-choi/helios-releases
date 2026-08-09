@@ -25,4 +25,4 @@ HeliOS 데스크톱 앱의 **배포 전용** 저장소입니다. 설치 파일�
 ## 문의
 
 이 저장소의 이슈는 비활성화되어 있습니다. 도입·지원 문의는
-[hoyeola@atdev.co.kr](mailto:hoyeola@atdev.co.kr) 로 보내주세요.
+[hoyeola@atdev.co.kr](mailto:punk.ai.comapny@gmail.com) 로 보내주세요.
